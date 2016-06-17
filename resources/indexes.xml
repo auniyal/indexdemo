@@ -2,7 +2,7 @@
 <manifest databaseName="AllScripts">
     <librarychild path="/DATA/AllScripts/Collection">
         <indexes>
-            <metadatavalueindex compressed="false" concurrent="true" key="dds:locale" name="(DDS Internal Index) Locale values" unique="false" valuetype="string" version-info="false"/>
+            <metadatavalueindex compressed="true" concurrent="true" key="dds:locale" name="(DDS Internal Index) Locale values" unique="false" valuetype="string" version-info="false"/>
             <metadatavalueindex compressed="false" concurrent="true" key="dds:subscription-element" name="(DDS Internal Index) Subscription-element" unique="false" valuetype="string" version-info="false"/>
         </indexes>
     </librarychild>
